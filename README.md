@@ -10,7 +10,31 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vansh-Arora01&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vansh-Arora01&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Arora01&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=NEWSMARTCOMPLAINSYSTEM)
+# 📊 My Top Languages
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-25%25-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-15%25-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vansh-Arora01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
