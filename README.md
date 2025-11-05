@@ -18,7 +18,7 @@ I'm a third-year B.Tech CSE student (9.63/10 CGPA) with a passion for building s
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vansh-Arora01&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vansh-Arora01&theme=gruvbox&hide_border=false)<br/>
-# 📊 My Top Languages
+# 📊 My Tech Toolkit
 <table align="center">
   <tr>
     <td align="center">
