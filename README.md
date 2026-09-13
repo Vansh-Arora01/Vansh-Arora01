@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋
 
-I'm a third-year B.Tech CSE student (9.63/10 CGPA) with a passion for building structured, efficient, and scalable software. My core focus is on robust backend development with a deep specialization in Data Structures & Algorithms (DSA) using Java. I'm currently expanding my expertise across the full stack, building and deploying applications with the MERN stack.
+I'm a Fourth-year B.Tech CSE student (9.63/10 CGPA) with a passion for building structured, efficient, and scalable software. My core focus is on robust backend development with a deep specialization in Data Structures & Algorithms (DSA) using Java. I'm currently expanding my expertise across the full stack, building and deploying applications with the MERN stack.
 
 > My philosophy is simple: "Hard work beats talent when talent doesn't work hard."
 
